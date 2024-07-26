@@ -1126,7 +1126,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #000;
+  background: #FFF;
   position: relative;
 }
 
@@ -1162,8 +1162,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
-  color: #fff;
+  font-size: 20px;
+  color: #000;
 }
 
 #team .member span {
